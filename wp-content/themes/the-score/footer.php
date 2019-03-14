@@ -62,6 +62,7 @@ if( ! defined( 'ABSPATH' ) ) {
 				<a title="Seos Themes" href="<?php echo esc_url('https://seosthemes.com/', 'the-score'); ?>" target="_blank"><?php esc_html_e('Theme by Seos Themes', 'the-score'); ?></a>
 			</p>
 		<?php } ?>
+            <a href="<?php echo esc_url( home_url( '/' ) ); ?>feed/"></a>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 	<?php if(get_theme_mod('activate_back_to_top', true)) { the_score_to_top(); } ?>
