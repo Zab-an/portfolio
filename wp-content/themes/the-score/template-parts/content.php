@@ -52,6 +52,15 @@ if( ! defined( 'ABSPATH' ) ) {
 
 	<div class="entry-content">
 		<?php
+
+
+        ?>
+        <p class="oeuvre-technologie"> Langages utilisés : <?php echo get_post_meta(get_the_ID(), 'langages', true);;
+
+            ?>
+        </p>
+        <?php
+
 		the_content( sprintf(
 			wp_kses(
 				/* translators: %s: Name of current post. Only visible to screen readers */
@@ -65,10 +74,15 @@ if( ! defined( 'ABSPATH' ) ) {
 			get_the_title()
 		) );
 
+
+
+
 		wp_link_pages( array(
 			'before' => '<div class="page-links">' . esc_html__( 'Pages:', 'the-score' ),
 			'after'  => '</div>',
 		) );
+
+
 		?>
 	</div><!-- .entry-content -->
 <?php endif; ?>

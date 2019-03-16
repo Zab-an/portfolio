@@ -11,16 +11,21 @@ get_header(); ?>
 		<div id="primary" class="content-area">
 
 			<main id="main" class="site-main app-post" role="main">
-				<article>
+				<article class="oeuvre">
 					<?php while ( have_posts() ) : the_post(); ?>
 					<header>
 						<?php the_title( '<h1 class="entry-title" itemprop="headline">', '</h1>' ); ?>
 					</header>
 					<?php
-						echo wp_get_attachment_image( get_the_ID()); 
-						the_content();
+						echo wp_get_attachment_image( get_the_ID());
+                        the_content();
+
+
+
 					endwhile; // End of the loop.
 					?>
+
+
 				</article>
 				<!--
 				<div class="postnav">
