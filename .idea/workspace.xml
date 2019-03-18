@@ -14,10 +14,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/the-score/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
+            <state relative-caret-position="25">
               <caret line="1954" column="42" selection-start-line="1954" selection-start-column="42" selection-end-line="1954" selection-end-column="42" />
             </state>
           </provider>
@@ -54,8 +54,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/the-score/template-parts/content.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-961">
-              <caret line="19" column="59" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+            <state relative-caret-position="294">
+              <caret line="83" column="22" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-includes/css/dist/block-library/style-rtl.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="16507" selection-start-column="16507" selection-end-column="16507" />
             </state>
           </provider>
         </entry>
@@ -96,6 +105,7 @@
       <find>/* Start the Loop */</find>
       <find>&lt;main</find>
       <find>&lt;article&gt;</find>
+      <find>wp-block-image</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Bitnami\wampstack-5.6.40-0\apache2\htdocs\portefolio\wp-content\themes\the-score</dir>
@@ -111,8 +121,8 @@
         <option value="$PROJECT_DIR$/wp-content/themes/the-score/template-parts/content-page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/the-score/attachment.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/the-score/index.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/the-score/template-parts/content.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/the-score/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/the-score/template-parts/content.php" />
       </list>
     </option>
   </component>
@@ -200,22 +210,21 @@
       <workItem from="1552673552180" duration="6861000" />
       <workItem from="1552690508697" duration="598000" />
       <workItem from="1552707725278" duration="438000" />
-      <workItem from="1552871792361" duration="1391000" />
+      <workItem from="1552871792361" duration="2157000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10704000" />
+    <option name="totallyTimeSpent" value="11470000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26308724" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26308724" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -299,13 +308,6 @@
     <entry file="file://$PROJECT_DIR$/wp-content/themes/the-score/single.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/the-score/template-parts/content.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-961">
-          <caret line="19" column="59" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/post.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="634">
@@ -315,8 +317,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/the-score/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
+        <state relative-caret-position="25">
           <caret line="1954" column="42" selection-start-line="1954" selection-start-column="42" selection-end-line="1954" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/the-score/template-parts/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="83" column="22" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/css/dist/block-library/style-rtl.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16507" selection-start-column="16507" selection-end-column="16507" />
         </state>
       </provider>
     </entry>
