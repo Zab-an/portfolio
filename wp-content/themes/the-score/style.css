@@ -1948,6 +1948,20 @@ object {
 	display: block;
 }
 
+.oeuvre-auteur{
+	color:green;
+}
+
+.oeuvre-interoperabilite{color:lightcoral;}
+
+.oeuvre-technologie{color:orangered;}
+
+.oeuvre-date{
+	color:blue;
+}
+
+.oeuvre-titre{color:red;}
+
 
 @media screen and (max-width: 800px) {
 	body #content #primary,
@@ -2004,6 +2018,7 @@ object {
 	.app-first .app-sub {
 		width: 100% !important;
 	}
+
 
 }
 
