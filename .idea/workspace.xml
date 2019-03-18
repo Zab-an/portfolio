@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35a393ed-835e-44e0-9286-3149e1370cac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/the-score/attachment.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/the-score/attachment.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/the-score/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/the-score/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/the-score/template-parts/content-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/the-score/template-parts/content-page.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/the-score/template-parts/content.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/the-score/template-parts/content.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/the-score/templeat-full-width.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/the-score/templeat-full-width.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,8 +61,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/the-score/template-parts/content.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="57" column="53" selection-start-line="57" selection-start-column="53" selection-end-line="57" selection-end-column="53" />
+            <state relative-caret-position="535">
+              <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
             </state>
           </provider>
         </entry>
@@ -137,6 +133,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -174,7 +171,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -209,16 +205,18 @@
       <workItem from="1552673552180" duration="6861000" />
       <workItem from="1552690508697" duration="598000" />
       <workItem from="1552707725278" duration="438000" />
+      <workItem from="1552871792361" duration="908000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9313000" />
+    <option name="totallyTimeSpent" value="10221000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26308724" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -301,8 +299,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/the-score/template-parts/content.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="57" column="53" selection-start-line="57" selection-start-column="53" selection-end-line="57" selection-end-column="53" />
+        <state relative-caret-position="535">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
         </state>
       </provider>
     </entry>

@@ -55,7 +55,23 @@ if( ! defined( 'ABSPATH' ) ) {
 
 
         ?>
-        <p class="oeuvre-technologie"> Langages utilisés : <?php echo get_post_meta(get_the_ID(), 'langages', true);;
+        <p class="oeuvre-technologie"> Langages utilisés : <?php echo get_post_meta(get_the_ID(), 'langages', true);
+
+            ?>
+        </p>
+        <p class="oeuvre-technologie"> Librairies utilisés : <?php echo get_post_meta(get_the_ID(), 'librairies', true);
+
+            ?>
+        </p>
+        <p class="oeuvre-interoperabilite"> Format du projet : <?php echo get_post_meta(get_the_ID(), 'format-de-communication', true);
+
+            ?>
+        </p>
+        <p class="oeuvre-date"> Durée de réalisation : <?php echo get_post_meta(get_the_ID(), 'duree', true);
+
+            ?>
+        </p>
+        <p class="oeuvre-auteur"> Auteurs : <?php echo get_post_meta(get_the_ID(), 'auteurs', true);
 
             ?>
         </p>
